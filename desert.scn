@@ -1,0 +1,42 @@
+{
+  "objects": [
+    {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "start_url": "http://webaverse.github.io/skybox/index.js"
+    },
+    {
+      "position": [
+        6,
+        0.1,
+        -4
+      ],
+      "quaternion": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "start_url": "http://localhost:3000/party/party.url"
+    },
+    {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "start_url": "http://localhost:3000/desert/manifest.json"
+    },	
+    {
+      "position": [
+        0,
+        0,
+        -2
+      ],
+      "start_url": "https://webaverse.github.io/mirror/index.js"
+    }
+  ]
+}
