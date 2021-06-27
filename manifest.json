@@ -1,0 +1,6 @@
+{
+  "name": "desert",
+  "description": "Desert XRPackage",
+  "start_url": "desert.glb",
+  "physics": true
+}
